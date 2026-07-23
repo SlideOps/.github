@@ -1,0 +1,19 @@
+name: Capability or feature request
+description: Suggest a Capability, a Provider, or an improvement
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: The outcome you want
+      description: Describe what you want to achieve as an Operator, not the implementation.
+      placeholder: I want ...
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Why this matters, and any distributions, tools, or providers involved.
+    validations:
+      required: false

@@ -1,0 +1,32 @@
+name: Bug report
+description: Report a problem so we can fix it
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for taking the time to report a bug. Clear steps help us fix it faster.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: Describe the problem and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the steps that lead to the problem.
+      placeholder: |
+        1. Go to ...
+        2. Do ...
+        3. See ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Distribution, version, browser, and anything else relevant.
+    validations:
+      required: false
