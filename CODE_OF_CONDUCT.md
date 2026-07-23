@@ -26,6 +26,6 @@ This applies in all project spaces, including repositories, issues, pull request
 
 ## Enforcement
 
-If you experience or witness unacceptable behavior, report it to conduct@sali-ai.com. Reports are handled confidentially. Maintainers may remove content, warn, or ban anyone who violates this code.
+If you experience or witness unacceptable behavior, report it to conduct@slideops.com. Reports are handled confidentially. Maintainers may remove content, warn, or ban anyone who violates this code.
 
 We adapt widely used community guidelines to fit SlideOps, and we may refine this document as the community grows.

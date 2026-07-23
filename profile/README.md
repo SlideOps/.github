@@ -30,3 +30,5 @@ SlideOps is not a cloud provider, not a Linux distribution, and not a replacemen
 - Simplicity and long term maintainability over novelty.
 
 Built for developers, platform engineers, self hosters, home labs, startups, and teams who want to operate infrastructure with confidence.
+
+Learn more at [slideops.com](https://slideops.com).

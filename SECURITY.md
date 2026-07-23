@@ -4,7 +4,7 @@ We take the security of SlideOps and of the infrastructure our Operators manage 
 
 ## Reporting a vulnerability
 
-Please do not open a public issue for security reports. Instead, email us at security@sali-ai.com with:
+Please do not open a public issue for security reports. Instead, email us at security@slideops.com with:
 
 - A description of the issue and the impact you believe it has.
 - Steps to reproduce, or a proof of concept if you have one.
